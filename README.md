@@ -9,3 +9,5 @@ DocPDF (para albergar los documentos) Codigos (para albergar los códigos creado
 Valentina Alfaro Rivera 2211702
 
 Nathalia Aexandra Perez Rojas 2200023
+
+Cristian Fernando Avila Navarro 2190729
